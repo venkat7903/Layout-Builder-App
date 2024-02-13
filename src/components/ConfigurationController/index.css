@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.configure-controller-container {
+  background: #475569;
+  padding: 1px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-configure-controller-container {
+  width: 90%;
+  max-width: 1140px;
+}
+
+.layout-title {
+  color: #fff;
+  font-size: 32px;
+}
+
+.checkbox-container {
+  display: flex;
+}
+
+.label {
+  color: #fff;
+  margin-left: 10px;
+}
+
+.checkbox-container {
+  margin-bottom: 15px;
+}

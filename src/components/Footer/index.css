@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.footer-container {
+  font-family: 'Roboto';
+  background: #cbd5e1;
+  color: #475569;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px 0px;
+}

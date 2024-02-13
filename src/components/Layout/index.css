@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.layout-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-layout-container {
+  width: 90%;
+  max-width: 1140px;
+  padding: 40px 0px;
+}
